@@ -11,8 +11,8 @@ A simple, responsive landing page for movies. Built using HTML, CSS, and JavaScr
 
 ## Screenshot
 
-![Movies Landing Page Screenshot 1](./Screenshot/Screenshot 2025-12-30 115423.png)
-![Movies Landing Page Screenshot 2](./Screenshot/Screenshot 2025-12-30 115444.png)
+![Movies Landing Page Screenshot 1](./Screenshot/one.png)
+![Movies Landing Page Screenshot 2](./Screenshot/two.png)
 
 
 ## Technologies Used
